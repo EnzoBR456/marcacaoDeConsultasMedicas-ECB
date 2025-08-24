@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/marcacaoDeConsultasMedicas-ECB.iml" filepath="$PROJECT_DIR$/.idea/marcacaoDeConsultasMedicas-ECB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/marcacaoDeConsultasMedicas.iml" filepath="$PROJECT_DIR$/.idea/marcacaoDeConsultasMedicas.iml" />
     </modules>
   </component>
 </project>
